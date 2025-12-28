@@ -57,14 +57,14 @@ Contoh struktur file dalam repository:
 ---
 
 ## 👤 Author
-- **Nama**: _(Marhama Maynaka)_
+- **Nama**: _Marhama Maynaka_
 - **Mata Kuliah**: Grafika Komputer
-- **Institusi**: _(Univesitas Muhammadiyah Maluku Utara)_
+- **Institusi**: _Univesitas Muhammadiyah Maluku Utara_
 
 ---
 
-## 👤 Dosen Pengampu
-- **Nama**: Muh Ikhwan Ilyas, S.Kom, M.Kom
+## 🎓 Dosen Pengampu
+- **Nama**: _Muh Ikhwan Ilyas, S.Kom, M.Kom_
 - **NIDN**: 1217108201
 
 ---
