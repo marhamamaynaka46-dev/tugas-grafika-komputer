@@ -57,9 +57,15 @@ Contoh struktur file dalam repository:
 ---
 
 ## 👤 Author
-- **Nama**: _(Isi nama Anda)_
+- **Nama**: _(Marhama Maynaka)_
 - **Mata Kuliah**: Grafika Komputer
-- **Institusi**: _(Isi nama kampus)_
+- **Institusi**: _(Univesitas Muhammadiyah Maluku Utara)_
+
+---
+
+## 👤 Dosen Pengampu
+- **Nama**: Muh Ikhwan Ilyas, S.Kom, M.Kom
+- **NIDN**: 1217108201
 
 ---
 
