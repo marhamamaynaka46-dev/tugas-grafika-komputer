@@ -7,7 +7,7 @@ Repository berisi file tugas yang diunggah secara online agar mudah diakses, dib
 
 Silakan buka file tugas melalui link berikut:
 
-👉 [Buka File PDF Tugas](https://github.com/marhamamaynaka46-dev/tugas-grafika-komputer/blob/main/Tugas_grafika_komputer.pdf)
+👉 [Buka File PDF Tugas](https://github.com/marhamamaynaka46-dev/tugas-grafika-komputer/blob/main/Tugas_github_grafika_komputer_121055520124118.pdf)
 
 ---
 
