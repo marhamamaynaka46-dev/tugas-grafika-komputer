@@ -25,7 +25,7 @@ Contoh struktur file dalam repository:
 ---
 
 ### 2. Melihat File Tugas
-1. Klik nama file (misalnya: `Tugas_grafika_komputer.pdf`)
+1. Klik nama file `Tugas_github_grafika_komputer_121055520124118.pdf`
 2. File akan terbuka langsung di browser GitHub
 3. File dapat dibaca tanpa perlu download
 
