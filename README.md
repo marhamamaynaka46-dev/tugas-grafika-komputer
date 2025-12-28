@@ -3,6 +3,12 @@
 Repository ini dibuat untuk mengumpulkan **tugas mata kuliah Grafika Komputer** menggunakan platform GitHub.  
 Repository berisi file tugas yang diunggah secara online agar mudah diakses, dibagikan, dan dinilai.
 
+## 📄 File Tugas
+
+Silakan buka file tugas melalui link berikut:
+
+👉 [Buka File PDF Tugas](Tugas_grafika_komputer.pdf)
+
 ---
 
 ## 📌 Informasi Umum
