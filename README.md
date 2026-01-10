@@ -88,6 +88,10 @@ Contoh struktur file dalam repository:
 Repository ini dibuat untuk keperluan akademik dan pembelajaran.  
 Semua file di dalam repository merupakan hasil kerja sendiri.
 
+# tes dari saya
+ini tes baris yg saya tambahkan 
+
+
 ---
 
 © 2025
