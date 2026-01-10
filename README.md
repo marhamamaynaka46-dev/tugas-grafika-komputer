@@ -62,9 +62,17 @@ Contoh struktur file dalam repository:
 
 ---
 
-## 👤 Author
+## 👤 Author 1
 - **Nama**: _Marhama Maynaka_
 - **NIM**: _121055520124118_
+- **Mata Kuliah**: Grafika Komputer
+- **Institusi**: _Univesitas Muhammadiyah Maluku Utara_
+
+---
+
+## 👤 Author 2
+- **Nama**: _Nurul Fahira_
+- **NIM**: _121055520124119_
 - **Mata Kuliah**: Grafika Komputer
 - **Institusi**: _Univesitas Muhammadiyah Maluku Utara_
 
